@@ -1,21 +1,16 @@
 # Github Repository Cloner
-
-This Python Script Clones Public Repositories from Github.
-
+This Python Script Clones Public Github Repositories under current folder with Git Repository name of the provided User Name.
 
 ## Prerequisites
-
 - Requests Package
 - Python3
 
 ## Installing
-
 You can use the requirements.txt file for installing packages using
 
 - `pip install -r requirements.txt`
 
 ## Screenshot
-
 1. Main Application
    ![Screenshot1](/docs/images/ScreenShot_001.png)
 
@@ -27,7 +22,6 @@ For Bug reporting and feedbacks, Please open an [issue](https://github.com/basan
 
 ## Authors
 - Basant Mandal (https://basantmandal.github.io/)
-
 
 ## Contributing
 This project welcomes contributions from the community. Before submitting a pull request, Please review our contribution guide [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](/CODE_OF_CONDUCT.md)
